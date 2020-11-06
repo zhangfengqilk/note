@@ -5,7 +5,7 @@ MapStruct版本号是1.2.0.Final
 http://mapstruct.org/documentation/stable/reference/html/12
 ```
 
-学习mapstruct主要就是看文档，还有一个小窍门是编译之后，会直接在相应的包下生成一个xxxImpl.class，直接查看此类就可以了
+学习mapstruct主要就是看文档，还有一个小窍门是编译之后，会直接在相应的包下生成一个xxxImpl.class，   直接查看此类就可以了
 
 # 项目配置
 
